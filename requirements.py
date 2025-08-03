@@ -1,0 +1,4 @@
+Flask
+strawberry-graphql
+pandas
+gunicorn
